@@ -17,7 +17,7 @@ RUN npm run build
 
 
 # Set the working directory
-WORKDIR /app
+WORKDIR /app/
 
 
 # Expose the port the app will run on
